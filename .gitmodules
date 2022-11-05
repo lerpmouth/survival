@@ -1,0 +1,3 @@
+[submodule "sbox-FPS-SDK"]
+	path = code/FPS-SDK
+	url = git@github.com:lerpmouth/sbox-FPS-SDK.git
